@@ -1,11 +1,22 @@
-.py-5{
-    background-color: rgb(122, 102, 86);
+.navbar{
+    background-color: black;
 }
 
-.h1,h2,h3,p{
-    color: white;
+.py-5{
+    background-color: rgb(255, 255, 255);
+}
+
+.py-3, .py-4{
+    background-color: rgb(255, 255, 255);
+
+}
+
+
+
+.h1,h2,h3,h4,p,{
+    color: rgb(0, 0, 0);
     }
     
-.footer{
-    color: yellow;
+.py-3{
+    background-color: black;
 }
